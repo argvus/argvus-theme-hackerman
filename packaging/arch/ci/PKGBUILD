@@ -1,9 +1,9 @@
 #!/bin/bash
 # Maintainer: William C. Canin <william.costa.canin@gmail.com>
-pkgname=argvus-theme-hackerman
+pkgname=argvus-theme-matrix
 pkgver=0.1.0
 pkgrel=1
-pkgdesc="hackerman theme for ARGVUS"
+pkgdesc="matrix theme for ARGVUS"
 arch=('any')
 url="https://github.com/argvus/argvus"
 license=('GPL-3.0-only')
